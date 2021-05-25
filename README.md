@@ -6,7 +6,13 @@ Supporting materials for Helfand, B. K. I., Detroyer, E., Milisen, K., Adamis, D
 
 * Code (link)
 * Item bank (DEL-IB) (link)
-* Cross-walk spreadsheets (link)
+* Cross-walk spreadsheets 
+  * CAM long-form (xlsx)
+  * CAM short-form (xlsx)
+  * DOSS (xlsx)
+  * DRS Severity (xlsx)
+  * DRS Total (xlsx)
+  * MDAS (xlsx)
 * R code for Shiny App (pending)
 
 ## Harmonization of delirium severity instruments
