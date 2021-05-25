@@ -7,7 +7,7 @@ Supporting materials for Helfand, B. K. I., Detroyer, E., Milisen, K., Adamis, D
 * Code (link)
 * Item bank (DEL-IB) (link)
 * Cross-walk spreadsheets (link)
-* R code for Shiny App (link)
+* R code for Shiny App (pending)
 
 ## Harmonization of delirium severity instruments
 Supporting materials for Gross, A. L., Tommet, D., D'Aquila, M., Schmitt, E., Marcantonio, E. R., Helfand, B., . . . Basil Study Group. (2018). Harmonization of delirium severity instruments: a comparison of the DRS-R-98, MDAS, and CAM-S using item response theory. BMC Med Res Methodol, 18(1), 92. doi:10.1186/s12874-018-0552-4
