@@ -20,10 +20,8 @@ The DEL-IB item bank contains item parameters on the logistic (2PL for binary it
 ## Harmonization of delirium severity instruments
 Supporting materials for Gross, A. L., Tommet, D., D'Aquila, M., Schmitt, E., Marcantonio, E. R., Helfand, B., . . . Basil Study Group. (2018). Harmonization of delirium severity instruments: a comparison of the DRS-R-98, MDAS, and CAM-S using item response theory. BMC Med Res Methodol, 18(1), 92. doi:10.1186/s12874-018-0552-4
 
-* Code (pending)
-* Item bank (pending)
-* Cross-walk spreadsheets (pending)
-* R code for Shiny App (pending)
+* Code ([GitHub](https://github.com/dougtommet/DeliriumHarmonization))
+* R code for Shiny App ([GitHub](https://github.com/dougtommet/Harmonization-shiny-app))
 
-2021-05-25:10:10
+Last update: 2025-01-06
 
