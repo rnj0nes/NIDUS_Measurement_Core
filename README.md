@@ -15,7 +15,6 @@ The DEL-IB item bank contains item parameters on the logistic (2PL for binary it
   * DRS Severity ([xlsx](https://github.com/rnj0nes/NIDUS_Measurement_Core/blob/main/DRS%20Severity%20Crosswalk%20Clean.xlsx))
   * DRS Total ([xlsx](https://github.com/rnj0nes/NIDUS_Measurement_Core/blob/main/DRS%20Total%20Crosswalk%20Clean.xlsx))
   * MDAS ([xlsx](https://github.com/rnj0nes/NIDUS_Measurement_Core/blob/main/MDAS%20Crosswalk%20Clean.xlsx))
-* R code for Shiny App (pending)
 
 ## Harmonization of delirium severity instruments
 Supporting materials for Gross, A. L., Tommet, D., D'Aquila, M., Schmitt, E., Marcantonio, E. R., Helfand, B., . . . Basil Study Group. (2018). Harmonization of delirium severity instruments: a comparison of the DRS-R-98, MDAS, and CAM-S using item response theory. BMC Med Res Methodol, 18(1), 92. doi:10.1186/s12874-018-0552-4
